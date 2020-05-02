@@ -1,0 +1,35 @@
+_repo: Outdoor-pastimes-of-an-American-hunter_61935
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roosevelt, Theodore
+    aliases:
+    - United States President (1901-1909)
+    - Roosevelt, Teddy
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '729'
+    url: http://www.gutenberg.org/2009/agents/729
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Roosevelt
+description: ''
+gutenberg_issued: '2020-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61935'
+  lccn: 08005843
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hunting -- United States'
+- !lcsh 'Hunting -- West (U.S.)'
+- !lcc 'SK'
+- GITenberg
+tableOfContents: With the cougar hounds -- A Colorado bear hunt -- Wolf-coursing --
+  Hunting in the cattle country; the prongbuck -- A shot at a mountain sheep -- The
+  whitetail deer -- The mule-deer or Rocky Mountain blacktail -- The wapiti or round-horned
+  elk -- Wilderness reserves; the Yellowstone Park -- Books on big game -- At home
+  -- In the Louisiana canebrakes -- Small country neighbors.
+title: Outdoor pastimes of an American hunter
+url: http://www.gutenberg.org/ebooks/61935
